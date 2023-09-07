@@ -8,8 +8,7 @@
     "setuptools",
     "wheel"
   ],
-  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\pip-23.2.1-py39haa95532_0",
-  "features": "",
+  "extracted_package_dir": "F:\\Anaconda\\pkgs\\pip-23.2.1-py39haa95532_0",
   "files": [
     "Lib/site-packages/pip-23.2.1-py3.9.egg-info/PKG-INFO",
     "Lib/site-packages/pip-23.2.1-py3.9.egg-info/SOURCES.txt",
@@ -1020,12 +1019,12 @@
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\pip-23.2.1-py39haa95532_0",
+    "source": "F:\\Anaconda\\pkgs\\pip-23.2.1-py39haa95532_0",
     "type": 1
   },
   "md5": "defc4423a2fbe0bc4eb9db122f9bf519",
   "name": "pip",
-  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\pip-23.2.1-py39haa95532_0.conda",
+  "package_tarball_full_path": "F:\\Anaconda\\pkgs\\pip-23.2.1-py39haa95532_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -8043,7 +8042,6 @@
   "size": 2907691,
   "subdir": "win-64",
   "timestamp": 1690294188713,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/pip-23.2.1-py39haa95532_0.conda",
   "version": "23.2.1"
 }

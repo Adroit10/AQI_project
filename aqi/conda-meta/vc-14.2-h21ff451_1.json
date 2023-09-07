@@ -6,8 +6,7 @@
   "depends": [
     "vs2015_runtime >=14.27.29016"
   ],
-  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\vc-14.2-h21ff451_1",
-  "features": "",
+  "extracted_package_dir": "F:\\Anaconda\\pkgs\\vc-14.2-h21ff451_1",
   "files": [
     ".nonadmin"
   ],
@@ -17,12 +16,12 @@
   "license": "Modified BSD License (3-clause)",
   "license_family": "BSD",
   "link": {
-    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\vc-14.2-h21ff451_1",
+    "source": "F:\\Anaconda\\pkgs\\vc-14.2-h21ff451_1",
     "type": 1
   },
   "md5": "a8c870bfc2551c262800527f2107d0f3",
   "name": "vc",
-  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\vc-14.2-h21ff451_1.conda",
+  "package_tarball_full_path": "F:\\Anaconda\\pkgs\\vc-14.2-h21ff451_1.conda",
   "paths_data": {
     "paths": [],
     "paths_version": 1

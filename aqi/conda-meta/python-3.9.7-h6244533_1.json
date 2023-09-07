@@ -11,8 +11,7 @@
     "vs2015_runtime >=14.16.27012,<15.0a0",
     "pip"
   ],
-  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\python-3.9.7-h6244533_1",
-  "features": "",
+  "extracted_package_dir": "F:\\Anaconda\\pkgs\\python-3.9.7-h6244533_1",
   "files": [
     "DLLs/_asyncio.pyd",
     "DLLs/_bz2.pyd",
@@ -3635,12 +3634,12 @@
   "legacy_bz2_size": 20875025,
   "license": "Python-2.0",
   "link": {
-    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\python-3.9.7-h6244533_1",
+    "source": "F:\\Anaconda\\pkgs\\python-3.9.7-h6244533_1",
     "type": 1
   },
   "md5": "61ff00ac233aa6736786908644094f8e",
   "name": "python",
-  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\python-3.9.7-h6244533_1.conda",
+  "package_tarball_full_path": "F:\\Anaconda\\pkgs\\python-3.9.7-h6244533_1.conda",
   "paths_data": {
     "paths": [
       {
@@ -28954,7 +28953,6 @@
   "size": 17313555,
   "subdir": "win-64",
   "timestamp": 1631830433054,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/python-3.9.7-h6244533_1.conda",
   "version": "3.9.7"
 }

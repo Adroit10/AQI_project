@@ -8,8 +8,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\openssl-1.1.1v-h2bbff1b_0",
-  "features": "",
+  "extracted_package_dir": "F:\\Anaconda\\pkgs\\openssl-1.1.1v-h2bbff1b_0",
   "files": [
     "Library/bin/c_rehash.pl",
     "Library/bin/libcrypto-1_1-x64.dll",
@@ -145,12 +144,12 @@
   "license": "OpenSSL",
   "license_family": "Apache",
   "link": {
-    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\openssl-1.1.1v-h2bbff1b_0",
+    "source": "F:\\Anaconda\\pkgs\\openssl-1.1.1v-h2bbff1b_0",
     "type": 1
   },
   "md5": "13e81829e438bf0c802052be3449cd6c",
   "name": "openssl",
-  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\openssl-1.1.1v-h2bbff1b_0.conda",
+  "package_tarball_full_path": "F:\\Anaconda\\pkgs\\openssl-1.1.1v-h2bbff1b_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -1057,7 +1056,6 @@
   "size": 5773548,
   "subdir": "win-64",
   "timestamp": 1691108907099,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/openssl-1.1.1v-h2bbff1b_0.conda",
   "version": "1.1.1v"
 }
